@@ -1,0 +1,175 @@
+commit ab8b2c11a82d7aee4ca2299a0507177abb5b4d59
+Author: Tao Lu <ltt5068@163.com>
+Date:   Mon Nov 28 13:17:17 2022 -0500
+
+    update README
+
+commit ff588d641c3cb49d377b3e1d421001c63be0e68f
+Author: Tao Lu <ltt5068@163.com>
+Date:   Mon Nov 28 13:14:43 2022 -0500
+
+    remove video
+
+commit e9e74c67eb83496142170f90a901286c4bb9cae3
+Author: Tao Lu <ltt5068@163.com>
+Date:   Mon Nov 28 13:12:52 2022 -0500
+
+    remove video
+
+commit cf23eb801db958c90b887d3d9e94ce1a1a94f958
+Merge: 8543b22 66bd304
+Author: Tao Lu <ltt5068@163.com>
+Date:   Mon Nov 28 12:55:30 2022 -0500
+
+    Merge branch 'master' of github.com:ISTHATDISTANCE/Click-Delay
+
+commit 8543b22fd4db08a9065622d41a64121b522ead9d
+Author: Tao Lu <ltt5068@163.com>
+Date:   Mon Nov 28 12:55:08 2022 -0500
+
+    add
+
+commit acde729d1659c93e088af1c772d395cd406bdc86
+Author: Tao Lu <ltt5068@163.com>
+Date:   Mon Nov 28 12:52:27 2022 -0500
+
+    Some minor changes
+
+commit 66bd3042c50191cf77e510744ab6cbc64cb89f61
+Author: ISTHATDISTANCE <36056539+ISTHATDISTANCE@users.noreply.github.com>
+Date:   Tue Nov 29 01:43:32 2022 +0800
+
+    Update README.md
+
+commit 44b14430ca5db00a5c43e3f9c7971dc15ed3b982
+Author: ISTHATDISTANCE <36056539+ISTHATDISTANCE@users.noreply.github.com>
+Date:   Tue Nov 29 01:19:02 2022 +0800
+
+    Create README.md
+
+commit c83ca56d32f6b95781a022a222810b3e2bde1cd0
+Author: ISTHATDISTANCE <36056539+ISTHATDISTANCE@users.noreply.github.com>
+Date:   Tue Nov 29 01:14:23 2022 +0800
+
+    Add README
+
+commit 521f91a213b2e0bc54cf081fb0f88a4e0623513f
+Author: Tao Lu <ltt5068@163.com>
+Date:   Tue Nov 8 15:07:41 2022 -0500
+
+    Field Study version 1
+
+commit c75dbaf1b9c48f64c79ffe4b38a92343e863b16c
+Author: Tao Lu <ltt5068@163.com>
+Date:   Thu Oct 27 00:03:25 2022 -0400
+
+    TODO: how to show each app with buttons
+
+commit 8ca54e8187c0a746f115f10878d3191cdddd4a8a
+Author: ltt <ltt5068@163.com>
+Date:   Fri Sep 30 15:34:47 2022 -0400
+
+    Fix bugs on customization page
+
+commit 3cad74d8f5422af9610d8c7ecc9c2c3dd73c94a9
+Author: ltt <ltt5068@163.com>
+Date:   Wed Aug 24 10:37:37 2022 -0400
+
+    Lab study mode light intensity bug fix
+
+commit 0c7963e051a14d1cd2ecfbfd75c55df4dc9759b5
+Author: ltt <ltt5068@163.com>
+Date:   Tue Aug 16 18:20:36 2022 -0400
+
+    Lab study mode finished
+
+commit 135870bcc726bb3961e7ff2b58ab71034edb5f5b
+Author: ltt <ltt5068@163.com>
+Date:   Sun Jul 24 07:39:35 2022 -0400
+
+    Add lab study mode (not finished)
+
+commit 5c2cfc3eb6aa6c273524a633f413d76dd92109ff
+Author: ltt <ltt5068@163.com>
+Date:   Fri Jul 15 15:26:06 2022 -0400
+
+    Fix some bugs
+
+commit d871fd0f40df7fc09cc2d3e58e891d5a845f2365
+Author: ltt <ltt5068@163.com>
+Date:   Tue Jul 12 15:05:31 2022 -0400
+
+    Add keyboard permission, prolong control and # of fingers to swipe
+
+commit 3106d4546195a1a18b8fc21dd39613e0add39372
+Author: ltt <ltt5068@163.com>
+Date:   Wed Jun 29 14:26:54 2022 -0400
+
+    Add one disabling window
+
+commit b5dae082437413c20e9eea3c9568e5f9867c3112
+Author: ltt <ltt5068@163.com>
+Date:   Mon Jun 27 16:00:16 2022 -0400
+
+    Add configuration interface
+
+commit 88ef56eff2a4feae45bb54f6c699501a5c61deec
+Author: ltt <ltt5068@163.com>
+Date:   Mon Jun 27 13:16:08 2022 -0400
+
+    Add multi-figure swipe
+
+commit 32f5dccc8b861646dc063c632ab59b1ac18e4cad
+Author: ltt <ltt5068@163.com>
+Date:   Thu Jun 23 15:55:36 2022 -0400
+
+    Add indefinite hold
+
+commit 50f88a3b1ab278e2431ec75c0763f244be59bef7
+Author: ltt <ltt5068@163.com>
+Date:   Thu Jun 23 13:04:22 2022 -0400
+
+    Add swipe
+
+commit cd33bbbf58241e4898e50bef9a6dcb5b22fc893a
+Author: ltt <ltt5068@163.com>
+Date:   Mon Jun 20 10:17:37 2022 -0400
+
+    Fix double tap and fixed time long press
+
+commit ffce3ff546c762a0a6adcd38a1904b66cd32cccf
+Merge: ef8f7d8 3dfa514
+Author: ltt <ltt5068@163.com>
+Date:   Tue Jun 14 19:07:07 2022 -0400
+
+    Merge from Hongxiao
+
+commit ef8f7d8f9cd13ab1c83175c8543b786577c66b1a
+Author: ltt <ltt5068@163.com>
+Date:   Tue Jun 14 13:08:53 2022 -0400
+
+    add performSwipe experiment
+
+commit 3dfa51489287a1b85093ca065a4fe54d144ff8e6
+Author: Waley <waleyz@umich.edu>
+Date:   Tue Jun 14 11:44:19 2022 -0400
+
+    Use GestureDetector
+
+commit fe4796fcddb1cec95fa55743e0aab79a5e8b2db7
+Author: ltt <ltt5068@163.com>
+Date:   Mon Jun 13 14:51:19 2022 -0400
+
+    add long press'
+
+commit 352b45fca243bb8dc0791897a61667b05aec0cb9
+Author: ltt <ltt5068@163.com>
+Date:   Thu Jun 9 16:26:12 2022 -0400
+
+    fix touch event gathering and drifting bug
+
+commit 82d401c2f96694026ae3df3113b4940156a98799
+Author: ltt <ltt5068@163.com>
+Date:   Thu Jun 9 14:19:22 2022 -0400
+
+    init commit
